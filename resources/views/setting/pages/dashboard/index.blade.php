@@ -1,0 +1,1 @@
+@extends('setting.layout.app')
